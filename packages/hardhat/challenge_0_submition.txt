@@ -1,0 +1,4 @@
+Challenge status: Submitted & accepted
+url: https://merciful-beggar.surge.sh/
+contract_address: https://goerli.etherscan.io/address/0xe45035bdd201903946b9031df570a932d049b774
+
